@@ -1,0 +1,46 @@
+{
+  "name": "objects-deep-compare",
+  "version": "1.0.0",
+  "description": "A utility to deeply compare objects and arrays in JavaScript / TypeScript.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rimraf dist && tsc",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "deep-equal",
+    "deep-compare",
+    "object compare",
+    "compare",
+    "objects",
+    "arrays",
+    "equality",
+    "utility"
+  ],
+  "author": "Damian Sire <damiansirecontacto@gmail.com>",
+  "license": "ISC",
+  "contributors": [
+    "Damian Sire <damiansirecontacto@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiansire/objects-deep-compare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/damiansire/objects-deep-compare/issues"
+  },
+  "homepage": "https://github.com/damiansire/objects-deep-compare#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.2",
+    "rimraf": "^5.0.0",
+    "typescript": "^5.8.3"
+  }
+}
