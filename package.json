@@ -1,6 +1,6 @@
 {
   "name": "objects-deep-compare",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A utility to deeply compare objects and arrays in JavaScript / TypeScript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
