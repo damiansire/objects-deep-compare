@@ -1,4 +1,4 @@
-# Objects Deep Compare (`objects-deep-compare`)
+# Objects Deep Compare
 
 [![npm version](https://badge.fury.io/js/objects-deep-compare.svg)](https://badge.fury.io/js/objects-deep-compare)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
